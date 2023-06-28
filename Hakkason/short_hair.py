@@ -1,5 +1,5 @@
 def repeat_string(N, S):
-    return "n".join([S] * N)
+    return "\n".join([S] * 3)
 
 
 N = int(input())
